@@ -1,7 +1,6 @@
 # DataSciML
 
-## C00274246
-## Jack Foley
+## C00274246 | Jack Foley
 
 ### Technologies that could be used
 
