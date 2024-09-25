@@ -130,10 +130,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT ./portfolio_specification.aux
 INPUT ./portfolio_specification.aux
 INPUT portfolio_specification.aux
@@ -187,8 +183,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT portfolio_specification.toc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT portfolio_specification.aux
 INPUT ./portfolio_specification.out

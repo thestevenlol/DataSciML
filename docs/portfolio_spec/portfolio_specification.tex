@@ -7,9 +7,6 @@
 \usepackage{hyperref}
 \usepackage[backend=biber, style=numeric]{biblatex}
 \addbibresource{refs.bib}
-\usepackage[]{geometry}
-
-\newgeometry{vmargin={15mm}, hmargin={30mm}}
 
 \title{Portfolio Specification}
 \author{Jack Foley | C00274246 \\[1cm]Supervisor: Greg Doyle}
@@ -18,7 +15,6 @@
 \begin{document}
 
 \maketitle
-
 \newpage
 
 \tableofcontents
@@ -34,22 +30,52 @@ we are expected to have completed all the projects defined in this document and 
 present them to the class. This document will be used as a reference throughout the
 semester to ensure that we are on track to complete the projects on time. 
 
-\section{Ideas}
+\section{Portfolio Content}
+The portfolio will be a simple static website that will contain various information about myself, including links to my CV, contact information, as well as projects 
+that I have completed throughout the semester. The website will be built using HTML, CSS, and JavaScript, if needed. The projects will be displayed on the website one by one.
 
+The headings for the portfolio will be as follows:
+\begin{itemize}
+    \item About me (Will include links to socials such as github, linkedin, etc.)
+    \item Employment
+    \item Projects
+    \item Education
+\end{itemize}
+
+\section{Available Hardware}
+ML can use up a lot of computational power, so it is important to have access to machines that are capable enough for running ML tasks. Below is a list of the 
+hardware that I have access to for the duration of the semester. What piece of hardware I use will depend on the task at hand.
+\begin{itemize}
+    \item Personal Laptop | Lenovo Thinkpad E16 Gen 1
+    \begin{itemize}
+        \item \textbf{CPU}: Intel Core i5-13420H (8C/16T)
+        \item \textbf{Discrete GPU}: N/A
+        \item \textbf{Memory}: 24GB DDR4
+    \end{itemize}
+    \item Desktop | Custom Build
+    \begin{itemize}
+        \item \textbf{CPU}: AMD Ryzen 7 5800X3D (8C/16T)
+        \item \textbf{Discrete GPU}: Nvidia RTX 4070
+        \item \textbf{Memory}: 32GB DDR4
+        \item \textbf{Additional Note}: I have full remote access to this machine, therefore it will be used for any tasks that can use a GPU.
+    \end{itemize}
+\end{itemize} 
+
+\section{Ideas}
 \subsection{Sea Level Prediction}
 
 \begin{itemize}
     \item \textbf{Brief Description:} Predict future sea levels using a polynomial regression algorithm.
-    \item \textbf{Dataset Source:} \href{https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021}{https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021} 
+    \item \textbf{Dataset Source:} \href{https://www.kaggle.com/datasets/kkhandekar/global-sea-level-1993-2021}{Click here} 
     \item \textbf{Technologies:}
     \begin{itemize}
-        \item Python
-        \item Pandas
-        \item Numpy
-        \item Matplotlib
-        \item Scikit-learntitanic(1)
-        \item Jupyter Notebook
-        \item Polynomial Regression
+        \item Python - Used for writing ML algorithms
+        \item Pandas - Used for data processing
+        \item Numpy - Used for any mathematics
+        \item Matplotlib - Used for plotting data
+        \item Scikit-learn - Used for ML models
+        \item Jupyter Notebook - Used for running the code / organisation
+        \item ML Model: Polynomial regression
     \end{itemize}
     \item \textbf{Detailed Description:} In a world where global warming is steadily heating up the planet, a side affect is the rise of the sea levels across the globe. 
     It is important that we have a prediction of where the sea levels will end up in the future so that we can prepare for the worst. To do this, we can use a polynomial 
@@ -60,23 +86,40 @@ semester to ensure that we are on track to complete the projects on time.
 
 \begin{itemize}
     \item \textbf{Brief Description:} Predict whether a passenger on the Titanic survived or not.
-    \item \textbf{Dataset Source:} \href{https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html}{https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html}
+    \item \textbf{Dataset Source:} \href{https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html}{Click here}
     \item \textbf{Technologies:}
     \begin{itemize}
-        \item Python
-        \item Pandas
-        \item Numpy
-        \item Matplotlib
-        \item Scikit-learn
-        \item Jupyter Notebook
-        \item Possible ML Models:
-        \begin{itemize}
-            \item Decision Tree
-        \end{itemize}
+        \item Python - Used for writing ML algorithms
+        \item Pandas - Used for data processing
+        \item Numpy - Used for any mathematics
+        \item Matplotlib - Used for plotting data
+        \item Scikit-learn - Used for ML models
+        \item Jupyter Notebook - Used for running the code / organisation
+        \item ML Model: Decision Tree
     \end{itemize}
+    \item \textbf{Detailed Description:} The Titanic was a ship that sank in 1912 after hitting an iceberg. The ship was carrying 2,224 passengers and crew, of which 1,502 died. 
+    The Titanic dataset is a common task done as a beginner friendly ML exercise. The dataset contains various information about the passengers such as age, class, if they had children, etc.
+    Using a decision tree model, we can predict whether a passenger survived or not. Dataset cleaning and preprocessing will be required before we can train the model.
 \end{itemize}
 
-\newpage
-\printbibliography
+
+\begin{itemize}
+    \item \textbf{Brief Description:} Perform Optical Character Recognition (OCR) on the Chars74k dataset using Deep Learning and CNNs.
+    \item \textbf{Dataset Source:} \href{https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html}{Click here}
+    \item \textbf{Technologies:}
+    \begin{itemize}
+        \item Python - Used for writing ML algorithms
+        \item Pandas - Used for data processing
+        \item Numpy - Used for any mathematics
+        \item Matplotlib - Used for plotting data
+        \item Scikit-learn - Used for ML models
+        \item Jupyter Notebook - Used for running the code / organisation
+        \item ML Model: Decision Tree
+    \end{itemize}
+    \item \textbf{Detailed Description:} The Titanic was a ship that sank in 1912 after hitting an iceberg. The ship was carrying 2,224 passengers and crew, of which 1,502 died. 
+    The Titanic dataset is a common task done as a beginner friendly ML exercise. The dataset contains various information about the passengers such as age, class, if they had children, etc.
+    Using a decision tree model, we can predict whether a passenger survived or not. Dataset cleaning and preprocessing will be required before we can train the model.
+\end{itemize}
+
 
 \end{document}
