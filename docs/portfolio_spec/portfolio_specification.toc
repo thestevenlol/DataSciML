@@ -4,3 +4,7 @@
 \contentsline {section}{\numberline {4}Ideas}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Sea Level Prediction}{4}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Titanic Death Prediction}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Inflation Prediction using CPI Data}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}OCR on Chars74k Dataset to Predict Characters}{6}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Deployment}{6}{section.5}%
+\contentsline {section}{\numberline {6}GDPR}{6}{section.6}%

@@ -36,10 +36,11 @@ that I have completed throughout the semester. The website will be built using H
 
 The headings for the portfolio will be as follows:
 \begin{itemize}
-    \item About me (Will include links to socials such as github, linkedin, etc.)
+    \item About me
     \item Employment
     \item Projects
     \item Education
+    \item Contact Links
 \end{itemize}
 
 \section{Available Hardware}
@@ -80,6 +81,7 @@ hardware that I have access to for the duration of the semester. What piece of h
     \item \textbf{Detailed Description:} In a world where global warming is steadily heating up the planet, a side affect is the rise of the sea levels across the globe. 
     It is important that we have a prediction of where the sea levels will end up in the future so that we can prepare for the worst. To do this, we can use a polynomial 
     regression algorithm to predict future sea levels. The dataset will have to be cleaned and preprocessed before we can use it to train the model.
+    \item \textbf{Hardware:} The hardware I will be using will be my laptop, it is sufficient for this task since it is not too computationally intensive. 
 \end{itemize}
 
 \subsection{Titanic Death Prediction}
@@ -100,8 +102,31 @@ hardware that I have access to for the duration of the semester. What piece of h
     \item \textbf{Detailed Description:} The Titanic was a ship that sank in 1912 after hitting an iceberg. The ship was carrying 2,224 passengers and crew, of which 1,502 died. 
     The Titanic dataset is a common task done as a beginner friendly ML exercise. The dataset contains various information about the passengers such as age, class, if they had children, etc.
     Using a decision tree model, we can predict whether a passenger survived or not. Dataset cleaning and preprocessing will be required before we can train the model.
+    \item \textbf{Hardware:} The hardware I will be using will be my laptop, it is sufficient for this task since it is not too computationally intensive.
 \end{itemize}
 
+\subsection{Inflation Prediction using CPI Data}
+
+\begin{itemize}
+    \item \textbf{Brief Description:} Inflation prediction using Consumer Price Index (CPI) data and a linear regression model. 
+    \item \textbf{Dataset Source:} \href{https://data.gov.ie/dataset/cpm03-consumer-price-index}{Click here}
+    \item \textbf{Technologies:}
+    \begin{itemize}
+        \item Python - Used for writing ML algorithms
+        \item Pandas - Used for data processing
+        \item Numpy - Used for any mathematics
+        \item Matplotlib - Used for plotting data
+        \item Scikit-learn - Used for ML models
+        \item Jupyter Notebook - Used for running the code / organisation
+        \item ML Model: Linear Regression
+    \end{itemize}
+    \item \textbf{Detailed Description:} Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling. 
+    It is important to have a prediction of where inflation will end up in the future so that we can prepare for the worst. To do this, we can use a linear regression algorithm to predict future inflation.
+    The dataset will have to be cleaned and preprocessed before we can use it to train the model since it has some missing data and/or outliers.
+    \item \textbf{Hardware:} The hardware I will be using will be my laptop, it is sufficient for this task since it is not computationally intensive.
+\end{itemize}
+
+\subsection{OCR on Chars74k Dataset to Predict Characters}
 
 \begin{itemize}
     \item \textbf{Brief Description:} Perform Optical Character Recognition (OCR) on the Chars74k dataset using Deep Learning and CNNs.
@@ -114,12 +139,24 @@ hardware that I have access to for the duration of the semester. What piece of h
         \item Matplotlib - Used for plotting data
         \item Scikit-learn - Used for ML models
         \item Jupyter Notebook - Used for running the code / organisation
-        \item ML Model: Decision Tree
+        \item TensorFlow - Used for deep learning
+        \item Keras - Used for building the CNN
+        \item ML Model: CNN
     \end{itemize}
     \item \textbf{Detailed Description:} The Titanic was a ship that sank in 1912 after hitting an iceberg. The ship was carrying 2,224 passengers and crew, of which 1,502 died. 
     The Titanic dataset is a common task done as a beginner friendly ML exercise. The dataset contains various information about the passengers such as age, class, if they had children, etc.
     Using a decision tree model, we can predict whether a passenger survived or not. Dataset cleaning and preprocessing will be required before we can train the model.
+    \item \textbf{Hardware:} The hardware I will be using will be my desktop, it is sufficient for this task since it is computationally intensive and requires a GPU.
 \end{itemize}
 
+\section{Deployment}    
+Since the portfolio is a website, it will have to be deployed somewhere. The first option is a Vercel deployment, 
+which is a platform that allows you to deploy static websites for free using the Hobbyist plan. 
+The second option is a GitHub Pages deployment, which is also a platform that allows you to deploy static websites for free. 
+Any of the actual ML projects will be on Google Colab, which will allow users to run the code without having to install any dependencies.
+
+\section{GDPR}
+It is important that the datasets used in the projects are GDPR compliant. This means that the data must be anonymised and/or pseudonymised.
+This will be done in the preprocessing stage of the projects.
 
 \end{document}

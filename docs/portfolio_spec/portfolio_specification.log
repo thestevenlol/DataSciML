@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.17)  25 SEP 2024 14:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.17)  27 SEP 2024 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -526,30 +526,32 @@ Package biblatex Info: Reference segment=0 on input line 15.
 
 [4]
 
-[5] (./portfolio_specification.aux)
+[5]
+
+[6] (./portfolio_specification.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `portfolio_specification.out' has not changed.
-(rerunfilecheck)             Checksum: F65860783E5B4AEE34C27B8323CFDC39;784.
+(rerunfilecheck)             Checksum: FD88E3F78B9A37D1B8536086E899973D;1485.
 Package logreq Info: Writing requests to 'portfolio_specification.run.xml'.
 \openout1 = `portfolio_specification.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16280 strings out of 473579
- 285304 string characters out of 5728234
- 1108995 words of memory out of 5000000
- 39016 multiletter control sequences out of 15000+600000
+ 16289 strings out of 473579
+ 285410 string characters out of 5728234
+ 1108996 words of memory out of 5000000
+ 39020 multiletter control sequences out of 15000+600000
  563787 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,81p,761b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on portfolio_specification.pdf (5 pages, 91959 bytes).
+Output written on portfolio_specification.pdf (6 pages, 100031 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

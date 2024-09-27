@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber portfolio_specification"] 0 "portfolio_specification.bcf" "portfolio_specification.bbl" "portfolio_specification" 1727269228.66082 -1
-  "portfolio_specification.bcf" 1727269228.62218 108081 ef9255d88e5b92738414083911d73428 "pdflatex"
+["biber portfolio_specification"] 0 "portfolio_specification.bcf" "portfolio_specification.bbl" "portfolio_specification" 1727431815.88138 -1
+  "portfolio_specification.bcf" 1727431815.84145 108081 ef9255d88e5b92738414083911d73428 "pdflatex"
   "refs.bib" 1726646144.46477 560 231cbfa23734711830c9fc278536cc07 ""
   (generated)
   "portfolio_specification.bbl"
   "portfolio_specification.blg"
   (rewritten before read)
-["pdflatex"] 1727269228.12291 "/home/jack/College/DataSciML/docs/portfolio_spec/portfolio_specification.tex" "portfolio_specification.pdf" "portfolio_specification" 1727269228.66104 0
-  "/home/jack/College/DataSciML/docs/portfolio_spec/portfolio_specification.tex" 1727269227.51017 6349 7abeb266151e26c279d3cab6177c6d57 ""
+["pdflatex"] 1727431815.31475 "/home/jack/College/DataSciML/docs/portfolio_spec/portfolio_specification.tex" "portfolio_specification.pdf" "portfolio_specification" 1727431815.88164 0
+  "/home/jack/College/DataSciML/docs/portfolio_spec/portfolio_specification.tex" 1727431815.23744 9092 728946a919ef3fc0c4034b312d78942f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -97,12 +97,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1726580550 5498206 6c0f03cb370063b7ddbd563e5f9ce23a ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1726580589 3326094 1685e7df55db56cdf9f1ef1875e9d33d ""
   "/usr/local/texlive/2024/texmf.cnf" 1726580546.93418 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "portfolio_specification.aux" 1727269228.62218 976 9fe92ace3e7aa8865c26ce8ab90d4b54 "pdflatex"
+  "portfolio_specification.aux" 1727431815.83745 1478 f44f4344324ec0a42f47cba3b36ab9bc "pdflatex"
   "portfolio_specification.bbl" 1727267796.06696 466 76d65a242ec496c9b4361af646ff12cb "biber portfolio_specification"
-  "portfolio_specification.out" 1727269228.62218 784 f65860783e5b4aee34c27b8323cfdc39 "pdflatex"
-  "portfolio_specification.run.xml" 1727269228.62218 2432 d17a24ea79dd1ba193ac84ff63e9c7a8 "pdflatex"
-  "portfolio_specification.tex" 1727269227.51017 6349 7abeb266151e26c279d3cab6177c6d57 ""
-  "portfolio_specification.toc" 1727269228.62218 452 d32495d85fcfa84b1e73296680e33a86 "pdflatex"
+  "portfolio_specification.out" 1727431815.83745 1485 fd88e3f78b9a37d1b8536086e899973d "pdflatex"
+  "portfolio_specification.run.xml" 1727431815.84145 2432 d17a24ea79dd1ba193ac84ff63e9c7a8 "pdflatex"
+  "portfolio_specification.tex" 1727431815.23744 9092 728946a919ef3fc0c4034b312d78942f ""
+  "portfolio_specification.toc" 1727431815.84145 790 4ac8c7f3ac6638363968e6648a8df4e4 "pdflatex"
   (generated)
   "portfolio_specification.aux"
   "portfolio_specification.bcf"
