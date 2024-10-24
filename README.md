@@ -4,7 +4,7 @@
 
 ### Technologies that could be used
 
-* Python
+* Python.
 * Jupyter
 * Google Colab
 * Tensorflow
