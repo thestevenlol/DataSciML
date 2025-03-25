@@ -1,4 +1,5 @@
 .venv/
 electricity_usage/household_power_consumption.txt
 nn-cnn/data/images/*
+
 nn-cnn/data/data.parquet
